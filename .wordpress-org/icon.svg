@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<rect fill="#63C2EC" width="256" height="258.163"/>
+<g>
+	<path fill="#FFFFFF" d="M249.859,110.541c0,9.336-7.568,16.905-16.905,16.905H23.045c-9.336,0-16.905-7.569-16.905-16.905l0,0
+		c0-9.337,7.568-16.905,16.905-16.905h209.909C242.291,93.636,249.859,101.204,249.859,110.541L249.859,110.541z"/>
+	<g>
+		<g>
+			<polygon fill="#FFFFFF" points="47.549,122.877 37.865,154.949 31.041,148.126 18.167,160.999 9.427,152.259 22.301,139.385 
+				15.477,132.562 			"/>
+			<polygon fill="#A9E0F8" points="9.427,152.259 22.301,139.385 15.477,132.562 47.549,122.877 47.545,122.89 13.802,156.634 			
+				"/>
+		</g>
+		<path fill="#3A4265" d="M14.338,132.433l7.182,7.183l-13.55,13.55l9.199,9.199l13.55-13.55l7.182,7.183l10.194-33.758
+			L14.338,132.433z M36.805,151.628l-4.449-4.449l-1.636-1.636l-1.636,1.636L17.17,159.093l-5.928-5.928l11.914-11.914l1.636-1.636
+			l-1.636-1.636l-4.449-4.449l25.927-7.828L36.805,151.628z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 42.043 116.9473)" fill="#63C2EC" font-family="'KeepCalm-Medium'" font-size="16.2803">REMOVE CATEGORY</text>
+</g>
+</svg>
